@@ -4,8 +4,8 @@
 "age": 21,
 "living in": "porto alegre, brazil",
 "studying": "software engineering at pucrs",
-"working as": "intern at safepag",
-"interests": "web, blockchain, crypto"
+"working as": "fullstack developer intern at safepag",
+"interests": "web development, blockchain, crypto"
 ```
 
 ### FIND ME
