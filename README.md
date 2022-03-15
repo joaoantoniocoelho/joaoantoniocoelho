@@ -1,11 +1,11 @@
 ## ABOUT ME
 ```json
-  "name": "joão antonio stoll coelho",
-  "age": "21",
-  "living in": "porto alegre, brazil",
-  "studying": "software engineering at pucrs",
-  "working as": "fullstack developer intern at safepag",
-  "interests": "web development, blockchain, crypto"
+"name": "joão antonio stoll coelho",
+"age": "21",
+"living in": "porto alegre, brazil",
+"studying": "software engineering at pucrs",
+"working as": "fullstack developer intern at safepag",
+"interests": "web development, blockchain, crypto"
 ```
 
 ### FIND ME
