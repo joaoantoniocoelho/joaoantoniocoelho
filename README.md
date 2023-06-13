@@ -1,8 +1,9 @@
 ## hi there 👋☕
 
-i'm a brazilian full stack developer, focused on back end.
+i'm a brazilian full stack developer, focused on back end, i love writing code to solve problems and make life easier.
 
-working with java, spring boot, typescript, node.js and reac, i love writing code to solve problems and make life easier.
+working with java, spring boot, typescript, node.js and react at [safepag](https://safepag.com/).
+
 
 ###  Reach me at
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoantonioscoelho@gmail.com)
