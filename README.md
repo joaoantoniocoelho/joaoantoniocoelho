@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there 👋☕
 
 i'm a brazilian full stack developer, focused on back end.
 
