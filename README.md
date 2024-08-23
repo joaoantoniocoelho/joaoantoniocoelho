@@ -1,5 +1,16 @@
 ## Hi there 👋☕
+I'm João, a Brazilian developer who loves to turn coffee into code. I'm all about solving real-world problems through software, making life just a bit easier for everyone.
 
-I'm a brazilian back end developer, I love writing code to solve problems and make life easier.
+### What I Do 🛠️
+**Back-end Development:** Java and Spring Boot are my main tools for building robust and scalable applications.
 
-Building software at [SAP](https://sap.com/).
+**Full-stack Work:** I can also handle the front-end when needed, with experience in TypeScript, NodeJS, and React.
+
+**Problem-Solving:** Whether it's payment systems, compliance modules, or just a tricky bug, I'm here to make things work smoothly.
+
+### My Philosophy 💡
+I believe in creating software that not only works but makes a difference. I'm all about clean, efficient code that gets the job done, with a focus on user-friendly experiences.
+
+### Let’s Connect 🌐
+Currently, I'm building awesome stuff at  [SAP](https://sap.com/). But I'm always open to a chat about tech, coffee, music or the next big thing in software development.
+
