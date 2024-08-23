@@ -2,9 +2,9 @@
 I'm João, a Brazilian developer who loves to turn coffee into code. I'm all about solving real-world problems through software, making life just a bit easier for everyone.
 
 ### What I Do 🛠️
-**Back-end Development:** Java and Spring Boot are my main tools for building robust and scalable applications.
+**Back-end Development:** Java, Spring Boot and NodeJS are my main tools for building robust and scalable applications.
 
-**Full-stack Work:** I can also handle the front-end when needed, with experience in TypeScript, NodeJS, and React.
+**Full-stack Work:** I can also handle the front-end when needed, with experience in TypeScript and React.
 
 **Problem-Solving:** Whether it's payment systems, compliance modules, or just a tricky bug, I'm here to make things work smoothly.
 
