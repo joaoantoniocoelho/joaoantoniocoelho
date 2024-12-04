@@ -6,8 +6,6 @@ I'm João, a Brazilian developer who loves to turn coffee into code. I'm all abo
 
 **Full-stack Work:** I can also handle the front-end when needed, with experience in TypeScript and React.
 
-**Problem-Solving:** Whether it's payment systems, compliance modules, or just a tricky bug, I'm here to make things work smoothly.
-
 ### My Philosophy 💡
 I believe in creating software that not only works but makes a difference. I'm all about clean, efficient code that gets the job done, with a focus on user-friendly experiences.
 
