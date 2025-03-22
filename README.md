@@ -18,7 +18,7 @@ Lately, I’ve been diving deeper into:
 I believe in building software that’s not just functional — but valuable, clean, and user-focused. Code should be elegant, maintainable, and built with purpose.
 
 ### Let’s Connect 🌐  
-Raech me out on my [LinkedIn](https://www.linkedin.com/in/joaoac/)! I'm always open to a chat about tech, coffee, music or the next big thing in software development.
+Reach me out on my [LinkedIn](https://www.linkedin.com/in/joaoac/)! I'm always open to a chat about tech, coffee, music or the next big thing in software development.
 
 ---
 
