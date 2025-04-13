@@ -1,5 +1,5 @@
 ## Hi there 👋☕  
-I'm João, a Brazilian developer who loves turning coffee into code. I'm passionate about building software that solves real-world problems — making life easier.
+I'm João, a Brazilian developer who loves turning coffee into code. I'm passionate about building software that solves real-world problems — making life easier. I'm currently working at [ADP](https://www.adp.com/) as Senior Developer.
 
 ### What I Do 🛠️  
 **Back-end Development:** Java, Spring Boot, and Node.js are my main tools for building robust and scalable applications.
