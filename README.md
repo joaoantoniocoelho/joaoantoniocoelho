@@ -1,12 +1,25 @@
-# João Coelho ☕
+# João Coelho
 
-I’m a software engineer who likes building things that work and stay working.
+Software engineer who likes backend systems, product problems, and understanding what's actually happening under the abstraction.
 
-Working with Java, Node, TypeScript, React and AWS.
-Currently working at [ADP](https://www.instagram.com/adp/).
+Most of my time is spent building things, breaking them, fixing them, and occasionally writing down what I learned.
 
-Into architecture, clean code, AI and random side projects.
+### Around here
 
-Coffee enthusiast. Gamer. Metal enjoyer.
+- backend & distributed systems
+- cloud infrastructure
+- mobile when necessary
+- AI experiments and tooling
+- side projects that usually start with “this should be simple”
 
-Let's talk: https://www.linkedin.com/in/joaoac/
+### Lately
+
+Exploring how AI changes the way we build software — beyond just calling an LLM API.
+
+Also trying to become a slightly better engineer than I was yesterday.
+
+### Elsewhere
+
+[joaoac.com](https://joaoac.com) · [LinkedIn]((https://www.linkedin.com/in/joaoac/)) · [Writing](medium.com/@joaoac)
+
+<sub>There is a rabbit somewhere on my website.</sub>
