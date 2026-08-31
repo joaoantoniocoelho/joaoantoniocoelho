@@ -20,6 +20,6 @@ Also trying to become a slightly better engineer than I was yesterday.
 
 ### Elsewhere
 
-[joaoac.com](https://joaoac.com) · [LinkedIn](https://www.linkedin.com/in/joaoac/) · [Writing](medium.com/@joaoac)
+[joaoac.com](https://joaoac.com) · [LinkedIn](https://www.linkedin.com/in/joaoac/)
 
 <sub>There is a rabbit somewhere on my website.</sub>
