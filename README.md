@@ -14,7 +14,7 @@ Most of my time is spent building things, breaking them, fixing them, and occasi
 
 ### Lately
 
-Exploring how AI changes the way we build software — beyond just calling an LLM API.
+Exploring how AI changes the way we build software, beyond just calling an LLM API.
 
 Also trying to become a slightly better engineer than I was yesterday.
 
