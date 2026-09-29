@@ -1,11 +1,13 @@
 # João Coelho
 
-Software engineer building things on the internet.
+Software engineer. I build things on the internet and then somehow end up maintaining them.
 
-Mostly SaaS, backend, AI experiments, and side projects that start with “this should be simple”.
+Currently at **ADP Ventures**.
 
-Currently building **[Ao Redor](https://aoredor.com)** and **[Revisa Aí](https://revisaai.app)**.
+Outside work, I'm building **[Revisa Aí](https://revisaai.app)**, messing with self-hosting, local AI, and a few side projects that were definitely supposed to stay small.
 
-I like shipping fast, learning in public, and figuring things out as I go.
+Mostly interested in backend, mobile, SaaS, AI, infrastructure, and making unnecessarily elaborate solutions to mildly annoying problems.
+
+I like simple products, boring tech that works, and shipping before everything feels ready.
 
 [joaoac.com](https://joaoac.com) · [X](https://x.com/joaoac_dev) · [LinkedIn](https://www.linkedin.com/in/joaoac/)
