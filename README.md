@@ -4,7 +4,7 @@ Software engineer. I build things on the internet and then somehow end up mainta
 
 Currently at **ADP Ventures**.
 
-Outside work, I'm building **[Revisa Aí](https://revisaai.app)**, messing with self-hosting, local AI, and a few side projects that were definitely supposed to stay small.
+Outside work, I'm building **[Tech Digest](https://digest.joaoac.com)**, messing with self-hosting, local AI, and a few side projects that were definitely supposed to stay small.
 
 Mostly interested in backend, mobile, SaaS, AI, infrastructure, and making unnecessarily elaborate solutions to mildly annoying problems.
 
