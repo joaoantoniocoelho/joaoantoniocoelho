@@ -10,4 +10,4 @@ Mostly interested in backend, mobile, SaaS, AI, infrastructure, and making unnec
 
 I like simple products, boring tech that works, and shipping before everything feels ready.
 
-[joaoac.com](https://joaoac.com) · [X](https://x.com/joaoac_dev) · [LinkedIn](https://www.linkedin.com/in/joaoac/)
+[joaoac.com](https://joaoac.com) · [X](https://x.com/joaoac_) · [LinkedIn](https://www.linkedin.com/in/joaoac/)
